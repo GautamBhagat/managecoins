@@ -1,0 +1,71 @@
+ <style type="text/css">
+    #qs{
+      padding-left: 0px;
+
+    }
+    body{
+      width: 90%;
+      background-color: ;
+
+
+      margin: 40px 10px 50px 60px; 
+      font-size: 10px;
+    }
+    img{
+      border-radius: 10px;
+    }
+    
+   
+    .wrap{
+      float: right;
+    
+      background: white;
+      transition: 0.4s;
+      border-radius: 25px;
+    }
+
+    .containers1{
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+      transition: 0.4s;
+      background-color: #fff;
+      text-align: center;
+      font-family: 'Do Hyeon', sans-serif;
+      font-size: 2.5em;
+
+      margin:5px 5px 10px 500px; 
+      width:200px;
+      height: 180px;
+      float: centre;
+      border-radius: 10px;
+      color: #292059;
+    }
+    .containers1:hover{
+      transform:scale(1.1);
+    }
+    a{
+      font-size:50px;
+
+    }
+    a:hover{
+      color:purple;
+
+    }
+
+.button{
+        background-color: #292059;color:white; 
+  border: none;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+width:100px;
+height:42px;
+}
+.button3 {border-radius: 8px;}
+
+
+  </style>
